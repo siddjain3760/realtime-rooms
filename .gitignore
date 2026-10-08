@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Env / secrets
+.env
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
